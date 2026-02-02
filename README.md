@@ -3,7 +3,7 @@
 \[Your Step 3 Edit Here\]
 
 This is a very simple repository for practicing with git and G12itHub. git is a utility for *version co ntrol*. When a body of code is tracked with git, it is easy to see how the software has evolved over time, to roll back changes when needed, and to incorporate modificatirons by multiple collaborators. In this activity, we're going to focus on core git workflows for single-person projects. We may do a follow-up activity later in the quarter on workflows for collaborative projects. 
-
+as
 GitHub is a free online code hosting service that runs using git. We'll use git and GitHub to collaborate on code and to host the blogs on which you'll submit your homework. 
 
 ***Note***: if you are already comfortable using git from the command line, you can follow along with these instructions, replacing GitHub Desktop operations with the appropriate terminal commands. Both approaches are valid!! Phil personally prefers GitHub Desktop, but many prefer the command line instead. 
