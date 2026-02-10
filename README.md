@@ -1,6 +1,6 @@
  personally prefers GitHub Desktop, but many prefer the command line instead. 
 
-## Preparation
+## Preparationrh
 
 You should already have made an account on [GitHub](https://github.com/) and downloaded [GitHub Desktop](https://desktop.github.com/). 
 
